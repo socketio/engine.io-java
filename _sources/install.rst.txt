@@ -16,7 +16,7 @@ Add the following dependency to your ``pom.xml``.::
       <dependency>
         <groupId>io.socket</groupId>
         <artifactId>engine.io-server</artifactId>
-        <version>4.0.2</version>
+        <version>4.0.3</version>
       </dependency>
     </dependencies>
 
@@ -25,7 +25,7 @@ Gradle
 
 Add it as a gradle dependency in ``build.gradle``.::
 
-    compile ('io.socket:engine.io-server:4.0.2')
+    compile ('io.socket:engine.io-server:4.0.3')
 
 .. _install-jetty-ws-adapter:
 
@@ -41,7 +41,7 @@ Add the following dependency to your ``pom.xml``.::
       <dependency>
         <groupId>io.socket</groupId>
         <artifactId>engine.io-server-jetty</artifactId>
-        <version>4.0.2</version>
+        <version>4.0.3</version>
       </dependency>
     </dependencies>
 
@@ -50,4 +50,4 @@ Gradle
 
 Add it as a gradle dependency in ``build.gradle``.::
 
-    compile ('io.socket:engine.io-server-jetty:4.0.2')
+    compile ('io.socket:engine.io-server-jetty:4.0.3')
